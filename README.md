@@ -14,7 +14,7 @@ He wants to understand following things?
 5. How to assess effect of different regions, booking source, purpose of storage etc on overall profit?
 
 
-These questions are answers using regression, classification models and applying A/B testing with t-test or ANOVA.
+These questions are answered using regression, classification models and applying A/B testing with t-test or ANOVA.
 
 # Code file: 
 Python Analysis.ipynb
