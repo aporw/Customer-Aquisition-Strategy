@@ -1,3 +1,5 @@
+![What is this] (storage.jpg)
+
 A storage provider on rent is looking to evaluate its promotion strategy. 
 
 He wants to understand following things?
